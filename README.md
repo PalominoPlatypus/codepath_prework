@@ -1,4 +1,4 @@
-## NAME_OF_YOUR_APP_HERE
+## Codepath Prework
 
 ### App Description
 This android app provides 2 buttons for the user, the background color button to change the background from purple to white and another text color button to change the color of the text in the middle of the screen from black to purple.
